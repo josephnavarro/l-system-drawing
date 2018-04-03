@@ -1,6 +1,6 @@
 # L-System Tree Drawing
 ## Overview
-A quick study on Lindenmayer system formal grammars, in this case used for semi-realistic tree drawing. Requires **[Pygame](https://www.pygame.org/news)**. If you are running on a slower machine, it may suffice to press RETURN while the tree is being drawn, so that you don't wait a long time for it to finish rendering.
+A quick study on Lindenmayer system formal grammars, in this case used for semi-realistic tree drawing. Requires **[Pygame](https://www.pygame.org/news)**. If you are running on a slower machine, it may suffice to press `RETURN` while the tree is being drawn (skips to finished drawing), so that you don't wait a long time for it to finish rendering.
 
 ## Algorithm
 The formal grammar used in this study uses the following recursive generation rules:
